@@ -16,7 +16,7 @@ MAX_STEPS = 100000
 per_step = 1
 threshold = 0.0000001
 
-# Setting up the file for saving data in it and masses:
+# Setting up the file for saving data and body masses:
 simulation_data = {
     "SUN" : [],
     "MERCURY" : [],
