@@ -67,7 +67,7 @@ Ensure you have the following installed on your system:
 
 Webots Robot Simulator (R2023b or newer recommended)
 
-Python 3.11+
+Python 3.8+
 
 ## Installation
 Clone the repository:
