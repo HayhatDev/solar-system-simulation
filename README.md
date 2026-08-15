@@ -72,7 +72,7 @@ Python 3.8+
 ## Installation
 Clone the repository:
 
-git clone [https://github.com/YOUR_USERNAME/webots-solar-system-simulation.git](https://github.com/HayhatDev/solar-system-simulation.git)
+git clone [https://github.com/HayhatDev/solar-system-simulation.git](https://github.com/HayhatDev/solar-system-simulation.git)
 cd solar-system-simulation
 Install required Python packages:
 
