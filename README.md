@@ -44,10 +44,20 @@ $$\mathbf{r}_{t+\Delta t} = \mathbf{r}_t + \mathbf{v}_{t+\Delta t} \Delta t$$
 
 ```text
 ├── newton/
-│   └── Gravity_simulation.wbt       # Webots 3D simulation world file
+│   └── Gravity_Simulation.wbt      # Webots 3D simulation world file
+│   └── .Gravity_Simulation.jpg    # photo from the simulations world
 │   └── gravity_controller.py   # N-Body Newtonian gravity controller
+│   └── simulation_data.json    # Contains all the simulations data after running it
+│   └── solar_system_orbits_hd.png   # orbits path visualization using matplotlib
 ├── kepler/
+│   └── Kepler_Simulation.wbt      # Webots 3D simulation world file
+│   └── .Kepler_Simulation.jpg    # photo from the simulations world
+│   └── kepler.py   # Keplers geometry orbits controller
+│   └── simulation_data.json    # Contains all the simulations data after running it
+│   └── kepler_orbits_hd.png   # orbits path visualization using matplotlib
 ├── LICENSE                    # Open-source license (e.g., MIT)
+├── kepler_vs_newton_poster.webp  # project youtube thumbnail
+├── newton_vs_kepler_comparison.png  # compare both newton and kepler path visualization
 └── README.md                  # Project documentation
 ```
 
