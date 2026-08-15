@@ -93,9 +93,9 @@ Keplerian Orbits: Produce closed, repeating elliptical paths over time.
 
 Newtonian Orbits: Show multi-body gravitational perturbations and orbital precession.
 
-🎥 YouTube Overview
+## 🎥 YouTube Overview
 Check out the full video breakdown and code walkthrough on YouTube:
 https://youtu.be/NqHKCTg3aJE
 
-📜 License
+## 📜 License
 Distributed under the MIT License. See LICENSE for more information.
